@@ -1,0 +1,1 @@
+(node_filesystem_size_bytes{mountpoint="/rootfs",instance="ip:9100"} -node_filesystem_free_bytes{mountpoint="/rootfs"}) / node_filesystem_size_bytes{mountpoint="/rootfs"}*100
