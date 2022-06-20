@@ -1,0 +1,1 @@
+sum(openstack_nova_memory_used_bytes/1024/1024/1024)

@@ -1,0 +1,1 @@
+sum(openstack_nova_vcpus_used)
